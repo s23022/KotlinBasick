@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="二章終わり 5月8日">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap07.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="三章〜七章 終わり 5月8日" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +55,8 @@
     "Kotlin.Chap02Kt.executor": "Run",
     "Kotlin.Chap03Kt.executor": "Run",
     "Kotlin.Chap04Kt.executor": "Run",
+    "Kotlin.Chap05Kt.executor": "Run",
+    "Kotlin.Chap06Kt.executor": "Run",
     "Kotlin.Chap08Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -138,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715130841321</updated>
       <workItem from="1715130842430" duration="3489000" />
-      <workItem from="1715135458460" duration="8594000" />
+      <workItem from="1715135458460" duration="8907000" />
     </task>
     <task id="LOCAL-00001" summary="二章終わり 5月8日">
       <option name="closed" value="true" />
@@ -164,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715137736328</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="三章〜七章 終わり 5月8日">
+      <option name="closed" value="true" />
+      <created>1715155358673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715155358673</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +177,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="二章終わり 5月8日" />
-    <option name="LAST_COMMIT_MESSAGE" value="二章終わり 5月8日" />
+    <MESSAGE value="三章〜七章 終わり 5月8日" />
+    <option name="LAST_COMMIT_MESSAGE" value="三章〜七章 終わり 5月8日" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
