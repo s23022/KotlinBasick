@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="二章終わり 5月8日" />
+    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="二章終わり 5月8日">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap07.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +32,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "s23022"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/s23022/KotlinBasick.git",
+    "accountId": "0063a05d-e305-4d96-ab9d-6ebc3c5c2ab6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -41,6 +58,9 @@
     "Gradle.KotlinBasick のビルド.executor": "Run",
     "Kotlin スクリプト (ベータ).build.gradle.kts.executor": "Run",
     "Kotlin.Chap02Kt.executor": "Run",
+    "Kotlin.Chap03Kt.executor": "Run",
+    "Kotlin.Chap04Kt.executor": "Run",
+    "Kotlin.Chap08Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -63,6 +83,44 @@
     ]
   }
 }]]></component>
+  <component name="RunManager" selected="Kotlin.Chap06Kt">
+    <configuration name="Chap04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap04Kt" />
+      <module name="KotlinBasick.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap05Kt" />
+      <module name="KotlinBasick.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap06Kt" />
+      <module name="KotlinBasick.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap07Kt" />
+      <module name="KotlinBasick.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Chap06Kt" />
+        <item itemvalue="Kotlin.Chap05Kt" />
+        <item itemvalue="Kotlin.Chap07Kt" />
+        <item itemvalue="Kotlin.Chap04Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715130841321</updated>
       <workItem from="1715130842430" duration="3489000" />
-      <workItem from="1715135458460" duration="1414000" />
+      <workItem from="1715135458460" duration="8594000" />
     </task>
     <task id="LOCAL-00001" summary="二章終わり 5月8日">
       <option name="closed" value="true" />
@@ -98,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715137414217</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="二章終わり 5月8日">
+      <option name="closed" value="true" />
+      <created>1715137736328</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715137736328</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
