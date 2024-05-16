@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="十三章〜十五章 終わり 5月14日&#10;Check3~Check05">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap16.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap17.kt" afterDir="false" />
+    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="十六章〜十八章 終わり 5月15日">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap21.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap23.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap18.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap18.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,50 +57,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.KotlinBasick [:kjk.main()].executor": "Run",
-    "Gradle.KotlinBasick のビルド.executor": "Run",
-    "Kotlin スクリプト (ベータ).build.gradle.kts.executor": "Run",
-    "Kotlin.Chap02Kt.executor": "Run",
-    "Kotlin.Chap03Kt.executor": "Run",
-    "Kotlin.Chap04Kt.executor": "Run",
-    "Kotlin.Chap05Kt.executor": "Run",
-    "Kotlin.Chap06Kt.executor": "Run",
-    "Kotlin.Chap08Kt.executor": "Run",
-    "Kotlin.Chap09Kt.executor": "Debug",
-    "Kotlin.Chap10Kt.executor": "Run",
-    "Kotlin.Chap11Kt.executor": "Run",
-    "Kotlin.Chap12Kt.executor": "Run",
-    "Kotlin.Chap13Kt.executor": "Run",
-    "Kotlin.Chap14Kt.executor": "Run",
-    "Kotlin.Chap15Kt.executor": "Run",
-    "Kotlin.Chap18Kt.executor": "Run",
-    "Kotlin.Check02Kt.executor": "Run",
-    "Kotlin.Check04Kt.executor": "Run",
-    "Kotlin.MainKt.executor": "Debug",
-    "Kotlin.Sample1Kt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/s23022/IdeaProjects/KotlinBasick/src/main/kotlin/Main.kt",
-    "project.structure.last.edited": "モジュール",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.KotlinBasick [:kjk.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.KotlinBasick のビルド.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin スクリプト (ベータ).build.gradle.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap02Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap03Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap04Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap05Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap06Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap08Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap09Kt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Chap10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap11Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap12Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap14Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap15Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Chap18Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Check02Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Check04Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Sample1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/s23022/IdeaProjects/KotlinBasick/src/main/kotlin/Main.kt&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;モジュール&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "kotlin-gradle-user-dirs": [
-      "/home/s23022/.gradle"
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;/home/s23022/.gradle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.Chap18Kt">
     <configuration name="Chap13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Chap13Kt" />
@@ -166,7 +169,8 @@
       <workItem from="1715302071019" duration="2547000" />
       <workItem from="1715305804650" duration="76000" />
       <workItem from="1715647163557" duration="13223000" />
-      <workItem from="1715733504191" duration="2307000" />
+      <workItem from="1715733504191" duration="4851000" />
+      <workItem from="1715823257138" duration="5128000" />
     </task>
     <task id="LOCAL-00001" summary="二章終わり 5月8日">
       <option name="closed" value="true" />
@@ -232,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715735043581</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="十六章〜十八章 終わり 5月15日">
+      <option name="closed" value="true" />
+      <created>1715751468474</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715751468474</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,17 +255,7 @@
     <MESSAGE value="三章〜七章 終わり 5月8日" />
     <MESSAGE value="八章〜十二章 終わり 5月9日&#10;Check02 じゃんけんを作成" />
     <MESSAGE value="十三章〜十五章 終わり 5月14日&#10;Check3~Check05" />
-    <option name="LAST_COMMIT_MESSAGE" value="十三章〜十五章 終わり 5月14日&#10;Check3~Check05" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
-          <line>13</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="十六章〜十八章 終わり 5月15日" />
+    <option name="LAST_COMMIT_MESSAGE" value="十六章〜十八章 終わり 5月15日" />
   </component>
 </project>
