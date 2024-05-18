@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="19章〜23章 終わり 5月16日">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice 01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice02.kt" afterDir="false" />
+    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="練習用のfo practiceの追加とChap22の修正">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice06.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap22.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap22.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,10 @@
     "Kotlin.Check02Kt.executor": "Run",
     "Kotlin.Check04Kt.executor": "Run",
     "Kotlin.For_practice02Kt.executor": "Run",
+    "Kotlin.For_practice03Kt.executor": "Run",
+    "Kotlin.For_practice04Kt.executor": "Run",
+    "Kotlin.For_practice05Kt.executor": "Run",
+    "Kotlin.For_practiceKt.executor": "Run",
     "Kotlin.For_practice_01Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Debug",
     "Kotlin.Sample1Kt.executor": "Run",
@@ -102,7 +106,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.For_practice02Kt">
+  <component name="RunManager" selected="Kotlin.For_practice05Kt">
     <configuration name="Chap22Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Chap22Kt" />
       <module name="KotlinBasick.main" />
@@ -117,22 +121,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For_practice_01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.For_practice_01Kt" />
+    <configuration name="For_practice03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.For_practice03Kt" />
       <module name="KotlinBasick.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.練習用.Sample1Kt" />
+    <configuration name="For_practice04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.For_practice04Kt" />
       <module name="KotlinBasick.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.練習用.Sample2Kt" />
+    <configuration name="For_practice05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.For_practice05Kt" />
       <module name="KotlinBasick.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.For_practice05Kt" />
+        <item itemvalue="Kotlin.For_practice04Kt" />
         <item itemvalue="Kotlin.For_practice02Kt" />
+        <item itemvalue="Kotlin.For_practice03Kt" />
         <item itemvalue="Kotlin.Chap22Kt" />
-        <item itemvalue="Kotlin.For_practice_01Kt" />
-        <item itemvalue="Kotlin.Sample2Kt" />
-        <item itemvalue="Kotlin.Sample1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +177,7 @@
       <workItem from="1715733504191" duration="4851000" />
       <workItem from="1715823257138" duration="6532000" />
       <workItem from="1715908872719" duration="30000" />
-      <workItem from="1716000304927" duration="6132000" />
+      <workItem from="1716000304927" duration="10563000" />
     </task>
     <task id="LOCAL-00001" summary="二章終わり 5月8日">
       <option name="closed" value="true" />
@@ -255,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715839247386</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="練習用のfo practiceの追加とChap22の修正">
+      <option name="closed" value="true" />
+      <created>1716011727940</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716011727940</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +280,7 @@
     <MESSAGE value="十三章〜十五章 終わり 5月14日&#10;Check3~Check05" />
     <MESSAGE value="十六章〜十八章 終わり 5月15日" />
     <MESSAGE value="19章〜23章 終わり 5月16日" />
-    <option name="LAST_COMMIT_MESSAGE" value="19章〜23章 終わり 5月16日" />
+    <MESSAGE value="練習用のfo practiceの追加とChap22の修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="練習用のfo practiceの追加とChap22の修正" />
   </component>
 </project>
