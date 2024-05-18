@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="練習用のfo practiceの追加とChap22の修正">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice05.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice06.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="練習用のfo practiceの追加">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap24.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap25.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap23.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap23.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +176,7 @@
       <workItem from="1715733504191" duration="4851000" />
       <workItem from="1715823257138" duration="6532000" />
       <workItem from="1715908872719" duration="30000" />
-      <workItem from="1716000304927" duration="10563000" />
+      <workItem from="1716000304927" duration="10910000" />
     </task>
     <task id="LOCAL-00001" summary="二章終わり 5月8日">
       <option name="closed" value="true" />
@@ -267,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716011727940</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="練習用のfo practiceの追加">
+      <option name="closed" value="true" />
+      <created>1716017311280</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716017311280</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +288,7 @@
     <MESSAGE value="十六章〜十八章 終わり 5月15日" />
     <MESSAGE value="19章〜23章 終わり 5月16日" />
     <MESSAGE value="練習用のfo practiceの追加とChap22の修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="練習用のfo practiceの追加とChap22の修正" />
+    <MESSAGE value="練習用のfo practiceの追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="練習用のfo practiceの追加" />
   </component>
 </project>

@@ -36,7 +36,7 @@ fun main() {
 class Person1
 
 // プロパティ(属性)だけ定義したクラス
-class Person2 {
+class Person2(s: String, i: Int) {
     var name = ""
     var age = 0
 }
