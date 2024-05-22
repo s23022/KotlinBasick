@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="練習用">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap27.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap28.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap29.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice08.kt" afterDir="false" />
+    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="27章〜30章　終わりと練習用">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for practice09.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice07.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice07.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +83,7 @@
     "Kotlin.For_practice06Kt.executor": "Run",
     "Kotlin.For_practice07Kt.executor": "Run",
     "Kotlin.For_practice08Kt.executor": "Run",
+    "Kotlin.For_practice09Kt.executor": "Run",
     "Kotlin.For_practice66Kt.executor": "Run",
     "Kotlin.For_practice77Kt.executor": "Run",
     "Kotlin.For_practiceKt.executor": "Run",
@@ -114,14 +112,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.For_practice08Kt">
-    <configuration name="For_practice06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.For_practice06Kt" />
-      <module name="KotlinBasick.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.For_practice09Kt">
     <configuration name="For_practice07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.For_practice07Kt" />
       <module name="KotlinBasick.main" />
@@ -131,6 +122,13 @@
     </configuration>
     <configuration name="For_practice08Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.For_practice08Kt" />
+      <module name="KotlinBasick.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="For_practice09Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.For_practice09Kt" />
       <module name="KotlinBasick.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.For_practice09Kt" />
         <item itemvalue="Kotlin.For_practice08Kt" />
         <item itemvalue="Kotlin.For_practice07Kt" />
         <item itemvalue="Kotlin.For_practice77Kt" />
         <item itemvalue="Kotlin.For_practice66Kt" />
-        <item itemvalue="Kotlin.For_practice06Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +188,7 @@
       <workItem from="1716193094675" duration="81000" />
       <workItem from="1716254155872" duration="3507000" />
       <workItem from="1716271270682" duration="4420000" />
-      <workItem from="1716338878344" duration="3403000" />
+      <workItem from="1716338878344" duration="7721000" />
     </task>
     <task id="LOCAL-00001" summary="二章終わり 5月8日">
       <option name="closed" value="true" />
@@ -312,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716278568363</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="27章〜30章　終わりと練習用">
+      <option name="closed" value="true" />
+      <created>1716355133996</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716355133996</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +335,7 @@
     <MESSAGE value="練習用のfo practiceの追加" />
     <MESSAGE value="23章〜26章　終わり" />
     <MESSAGE value="練習用" />
-    <option name="LAST_COMMIT_MESSAGE" value="練習用" />
+    <MESSAGE value="27章〜30章　終わりと練習用" />
+    <option name="LAST_COMMIT_MESSAGE" value="27章〜30章　終わりと練習用" />
   </component>
 </project>
