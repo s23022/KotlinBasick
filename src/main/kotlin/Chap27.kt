@@ -40,4 +40,4 @@ open class Car5(val color: String) {      // 27.5
 }
 
 class Ferrari() : Car()     // 27.3
-class Ferrari5(color: String) : Car5(color)     // 27.5
+class Ferrari5(color: String) : Car5(color)     // 27.5r)     // 27.5

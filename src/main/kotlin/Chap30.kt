@@ -1,6 +1,6 @@
 package org.example
 
-/*
+
 fun main(args: Array<String>) {
     val car1 = Ferrari("赤")
     val car2 = Prius("グレー")
@@ -39,4 +39,4 @@ class Xbee(color: String) : Car(color) {
         println("${color}のクロスビーが走りました")
         println("マイレージは ${distance}キロになりました。")
     }
-}*/
+}
