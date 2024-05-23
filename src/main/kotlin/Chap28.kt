@@ -1,8 +1,9 @@
 package org.example
 
 
-import com.example.chap27.Car5
+//import com.example.chap27.Car5
 
+/*
 fun main(args: Array<String>) {
     run {
         println("----28.4----")
@@ -36,4 +37,4 @@ class Prius(color: String) : Car5(color) {
         println("マイレージは ${distance}キロです。")
         println("トヨタの車はいっぱい走ってもなかなか故障しません！")
     }
-}
+}*/

@@ -1,5 +1,6 @@
 package org.example
 
+/*
 fun main(args: Array<String>) {
     run {
         println("----24.1----")
@@ -90,4 +91,4 @@ class Person8 {
             age = value.toInt()
         }
         get() = age.toString()
-}
+}*/

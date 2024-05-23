@@ -1,5 +1,6 @@
 package org.example
 
+/*
 fun main(args: Array<String>) {
     run {
         println("----29.1----")
@@ -63,4 +64,4 @@ fun driveByPrius(car: Prius) {
 //
 //fun driveByCar(car: Prius) {
 //    car.drive(100.0)
-//}
+//}*/

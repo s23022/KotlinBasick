@@ -4,22 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="練習用">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap31.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap32.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap34.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Chap35.kt" afterDir="false" />
+    <list default="true" id="c76f4e16-3758-47ce-84e3-e53a40cbf6e0" name="変更" comment="練習用を//でコメントにしてその他色々修正かつ変更">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice 01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice 01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice03.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice04.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice05.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice06.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice06.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice08.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice08.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice09.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice09.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/for practice66.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/for practice66.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap20.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap36.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap24.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap24.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap25.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap25.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap28.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap28.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap29.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap29.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap30.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap30.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap31.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap31.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap34.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap34.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Chap35.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Chap35.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +53,9 @@
     &quot;accountId&quot;: &quot;0063a05d-e305-4d96-ab9d-6ebc3c5c2ab6&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -66,65 +65,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.KotlinBasick [:kjk.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.KotlinBasick のビルド.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin スクリプト (ベータ).build.gradle.kts.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap02Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap03Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap04Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap05Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap06Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap08Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap09Kt.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin.Chap10Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap11Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap12Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap13Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap14Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap15Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap18Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Chap22Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Check02Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Check04Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice02Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice03Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice04Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice05Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice06Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice07Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice08Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice09Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice66Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice77Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practiceKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.For_practice_01Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.MainKt.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin.Sample1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Sample2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/s23022/IdeaProjects/KotlinBasick/src/main/kotlin/Main.kt&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;モジュール&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.KotlinBasick [:kjk.main()].executor": "Run",
+    "Gradle.KotlinBasick のビルド.executor": "Run",
+    "Kotlin スクリプト (ベータ).build.gradle.kts.executor": "Run",
+    "Kotlin.Chap02Kt.executor": "Run",
+    "Kotlin.Chap03Kt.executor": "Run",
+    "Kotlin.Chap04Kt.executor": "Run",
+    "Kotlin.Chap05Kt.executor": "Run",
+    "Kotlin.Chap06Kt.executor": "Run",
+    "Kotlin.Chap08Kt.executor": "Run",
+    "Kotlin.Chap09Kt.executor": "Debug",
+    "Kotlin.Chap10Kt.executor": "Run",
+    "Kotlin.Chap11Kt.executor": "Run",
+    "Kotlin.Chap12Kt.executor": "Run",
+    "Kotlin.Chap13Kt.executor": "Run",
+    "Kotlin.Chap14Kt.executor": "Run",
+    "Kotlin.Chap15Kt.executor": "Run",
+    "Kotlin.Chap18Kt.executor": "Run",
+    "Kotlin.Chap22Kt.executor": "Run",
+    "Kotlin.Chap36Kt.executor": "Run",
+    "Kotlin.Check02Kt.executor": "Run",
+    "Kotlin.Check04Kt.executor": "Run",
+    "Kotlin.For_practice02Kt.executor": "Run",
+    "Kotlin.For_practice03Kt.executor": "Run",
+    "Kotlin.For_practice04Kt.executor": "Run",
+    "Kotlin.For_practice05Kt.executor": "Run",
+    "Kotlin.For_practice06Kt.executor": "Run",
+    "Kotlin.For_practice07Kt.executor": "Run",
+    "Kotlin.For_practice08Kt.executor": "Run",
+    "Kotlin.For_practice09Kt.executor": "Run",
+    "Kotlin.For_practice66Kt.executor": "Run",
+    "Kotlin.For_practice77Kt.executor": "Run",
+    "Kotlin.For_practiceKt.executor": "Run",
+    "Kotlin.For_practice_01Kt.executor": "Run",
+    "Kotlin.MainKt.executor": "Debug",
+    "Kotlin.Sample1Kt.executor": "Run",
+    "Kotlin.Sample2Kt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/s23022/IdeaProjects/KotlinBasick/src/main/kotlin/Main.kt",
+    "project.structure.last.edited": "モジュール",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;kotlin-gradle-user-dirs&quot;: [
-      &quot;/home/s23022/.gradle&quot;
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "/home/s23022/.gradle"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.For_practice09Kt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Chap36Kt">
+    <configuration name="Chap36Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Chap36Kt" />
+      <module name="KotlinBasick.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="For_practice07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.For_practice07Kt" />
       <module name="KotlinBasick.main" />
@@ -146,13 +153,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For_practice66Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.For_practice66Kt" />
-      <module name="KotlinBasick.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="For_practice77Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.For_practice77Kt" />
       <module name="KotlinBasick.main" />
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chap36Kt" />
         <item itemvalue="Kotlin.For_practice09Kt" />
         <item itemvalue="Kotlin.For_practice08Kt" />
         <item itemvalue="Kotlin.For_practice07Kt" />
         <item itemvalue="Kotlin.For_practice77Kt" />
-        <item itemvalue="Kotlin.For_practice66Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,8 @@
       <workItem from="1716271270682" duration="4420000" />
       <workItem from="1716338878344" duration="9639000" />
       <workItem from="1716364591786" duration="601000" />
-      <workItem from="1716424470339" duration="350000" />
+      <workItem from="1716424470339" duration="681000" />
+      <workItem from="1716425162881" duration="2830000" />
     </task>
     <task id="LOCAL-00001" summary="二章終わり 5月8日">
       <option name="closed" value="true" />
@@ -340,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716363595204</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="練習用を//でコメントにしてその他色々修正かつ変更">
+      <option name="closed" value="true" />
+      <created>1716425130392</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716425130392</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,6 +367,7 @@
     <MESSAGE value="23章〜26章　終わり" />
     <MESSAGE value="27章〜30章　終わりと練習用" />
     <MESSAGE value="練習用" />
-    <option name="LAST_COMMIT_MESSAGE" value="練習用" />
+    <MESSAGE value="練習用を//でコメントにしてその他色々修正かつ変更" />
+    <option name="LAST_COMMIT_MESSAGE" value="練習用を//でコメントにしてその他色々修正かつ変更" />
   </component>
 </project>

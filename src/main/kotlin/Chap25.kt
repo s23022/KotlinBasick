@@ -1,5 +1,6 @@
 package org.example
 
+/*
 fun main(args: Array<String>) {
     run {
         println("----25.2----")
@@ -68,4 +69,5 @@ class Person9(val name: String, var age: Int) {
     fun greet() {
         println("${name}です。${age}歳です。")
     }
-}
+*/
+//}
