@@ -93,4 +93,49 @@ fun main() {
         val studentMap = students.associateBy ( Student::id )
         studentMap.forEach(::println)
     }
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+    println("-----2.10.13-----")
+
+    run{
+        val list10 = listOf(
+            User2(1, 100, "Takahata"),
+            User2(2, 200, "Kotlin"),
+            User2(3, 100, "Java"),
+            User2(4, 200, "Groovy")
+        )
+        val map  = list10.groupBy { it.teamId }
+        println(map)
+        println(map[100])
+        println(map[200])
+    }
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+    println("-----2.10.14-----")
+
+    val list11 = listOf(1, 2, 3, 4, 5)
+    val oddNumberCount = list11.count { it % 2 == 1 }
+    println(oddNumberCount)
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+    println("-----2.10.15-----")
+
+    val list12 = listOf("Takahata", "Kotlin", "Java", "Groovy", "Scala")
+    val chunkedList = list12.chunked(2)
+    println(chunkedList)
+    chunkedList.forEach { println(it)}
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+    println("-----2.10.16-----")
+
+    run{
+        val list13 = listOf(1, 2, 3, 4, 5)
+        val result = list13.reduce { sum, value ->
+            println("$sum + $value")
+            sum + value
+        }
+        println(result)
+    }
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+    println("-----2.10.17-----")
+
+    val list14 = listOf(1, 2, 3, 4, 5)
+    val result2 = list14.reduce { sum, value -> sum * value }
+    println(result2)
 }
