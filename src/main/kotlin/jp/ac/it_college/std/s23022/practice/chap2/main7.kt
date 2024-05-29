@@ -58,8 +58,37 @@ fun main() {
         println("4回目: ${this}が生成されました")
         println("${this}の３倍は${this * 3}です。")
     }
+    //////////////////////////////////////////////////////////////////////////////////////////////////
+    println("-----2.7.6-----")
 
+    val oddNumbers5 = mutableListOf<Int>().let { list ->
+        for (i in 1..10) {
+            if (i % 2 == 1) list.add(i)
+        }
+        list.joinToString(separator = " ")
+    }
+    println(oddNumbers5)
+    //////////////////////////////////////////////////////////////////////////////////////////////////
+    println("-----2.7.8-----")
+
+    println(createUser("Takehata"))
+    println(createUser(null))
+    //////////////////////////////////////////////////////////////////////////////////////////////////
+    println("-----2.7.11-----")
+
+    val oddNumbers6 = mutableListOf<Int>().apply {
+        for (i in 1..10) {
+            if (i % 2 == 1) this.add(i)
+        }
+        this.joinToString(separator = " ")
+    }
+    println(oddNumbers6)
+//////////////////////////////////////////////////////////////////////////////////////////////////
+    println("-----2.7.12~13-----")
+
+    updateUser(100, "kotlin", "Nagoya")
 }
+
 fun randomGenerateNumber(): Int? {
     return if (Random.nextBoolean()) Random.nextInt(1..10) else null
 }

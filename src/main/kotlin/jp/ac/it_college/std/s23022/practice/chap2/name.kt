@@ -25,4 +25,4 @@ val User4.isValidName: Boolean
 fun printCalcResult(num1: Int, num2: Int, calc: Calc) {
     val result = calc(num1, num2)
     println("計算結果: $result")
-}
+}//l
